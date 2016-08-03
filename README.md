@@ -1,2 +1,3 @@
 # AopTestBasedOnSpringMVC
 一个基于spring和spring mvc的面向切面编程AOP的小Demo，基本上展现了在web应用中使用AOP的作用，便于深刻理解AOP的原理和运行机理。
+项目中 使用到aop思想很多，但是功能点用到的不多，借来加以理解。
